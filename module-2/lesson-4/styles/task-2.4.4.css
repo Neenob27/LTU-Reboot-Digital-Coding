@@ -1,0 +1,17 @@
+.container {
+    position: relative;
+    border: slateblue;
+}
+.container img{
+    height: 600px
+}
+.container span {
+position: absolute;
+top: 50px;
+left: 170px;
+color:red;
+font-size:32px;
+background-color: rgb(56, 211, 123);
+padding: 10px;
+
+}
